@@ -1,0 +1,418 @@
+.sprite-icon_topNav_index {
+	background-image: url("../images/icon/topNav_index.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 17px;
+}
+.sprite-icon_topNav_help {
+	background-image: url("../images/icon/topNav_help.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 18px;
+	margin-bottom: -5px;
+}
+.sprite-icon_topNav_news {
+	background-image: url("../images/icon/topNav_news.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 17px;
+	margin-bottom: -5px;
+}
+.sprite-icon_topNav_forum {
+	background-image: url("../images/icon/topNav_forum.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 17px;
+}
+.sprite-icon_topNav_blog {
+	background-image: url("../images/icon/topNav_blog.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 15px;	
+}
+.sprite-icon_topNav_partners {
+	background-image: url("../images/icon/topNav_partners.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 15px;	
+}
+.sprite-icon_topNav_account {
+	background-image: url("../images/icon/topNav_account.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 19px;	
+}
+.sprite-icon_topNav_mysite {
+	background-image: url("../images/icon/topNav_mysite.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 20px;
+	width: 23px;	
+}
+.sprite-icon_component_protect {
+	background-image: url("../images/icon/component_protect.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: block;
+	height: 37px;
+	width: 35px;	
+}
+.sprite-icon_component_speed {
+	background-image: url("../images/icon/component_speed.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: block;
+	height: 40px;
+	width: 29px;	
+}
+.sprite-icon_component_service {
+	background-image: url("../images/icon/component_service.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: block;
+	height: 37px;
+	width: 43px;	
+}
+.sprite-logo_jiasule_site {
+	background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	height: 34px;
+	width: 109px;
+}
+.sprite-icon_topNav_login_qq {
+	background-image: url("../images/icon/login_qq.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 15px;
+	width: 15px;
+}
+.sprite-icon_topNav_login_sina {
+	background-image: url("../images/icon/login_sina.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 15px;
+	width: 15px;
+}
+body {
+	background: #F4F4F4;
+}
+.home_banner {
+	background-image: url('../images/core/index_banner.png');
+	display: block;
+	height: 449px;
+	width: 959px;
+}
+.sprite-icon_share_qq {
+	background-image: url("../images/icon/share_qq.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 26px;
+	width: 25px;
+}
+.sprite-icon_share_sina {
+	background-image: url("../images/icon/share_sina.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 26px;
+	width: 26px;
+}
+.sprite-icon_share_renren {
+	background-image: url("../images/icon/share_renren.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 26px;
+	width: 25px;
+}
+.sprite-icon_share_douban {
+	background-image: url("../images/icon/share_douban.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 26px;
+	width: 25px;
+}
+.regist {
+	height: 70px;
+	width: 346px;
+	padding-top: 35px;
+}
+.regist a {
+	background: url("../images/core/register_bg.png") no-repeat;
+	height:70px;
+	width: 346px;
+}
+.regist a:hover {
+	background: url("../images/core/register_active_bg.png") no-repeat;
+	height: 70px;
+	width: 346px;
+}
+.partner-title {
+	margin: 0 auto;
+	margin-top: 8px;
+	background-image: url("../images/core/partner-title.png");
+	background-repeat: no-repeat;
+	height: 32px;
+	width: 172px;
+}
+.splitline {
+	background-image: url("../images/core/splitline.png");
+	background-repeat: no-repeat;
+	height: 14px;
+	width: 921px;
+	display: block;
+	margin: 0 auto;
+}
+.sprite-icon_mysite_sites_btn_add {
+	background-image: url("../images/icon/site_add_btn.png");
+	background-repeat: no-repeat;
+	height: 18px;
+	width: 17px;
+	display: inline-block;
+}
+.about-jsl-banner {
+	background-image: url("../images/core/about-jsl-banner.jpg");
+	background-repeat: no-repeat;
+	width: 600px;
+	height: 426px;
+}
+.sprite-icon_status_onlined {
+	background-image: url("../images/icon/online.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.sprite-icon_status_malfunction {
+	background-image: url("../images/icon/malfunction.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.sprite-icon_status_degradation {
+	background-image: url("../images/icon/degradation.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.sprite-icon_status_regular_maintenance {
+	background-image: url("../images/icon/regular-maintenance.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.sprite-icon_status_temporary_maintenance {
+	background-image: url("../images/icon/temporary-maintenance.png");
+	background-repeat: no-repeat;
+	vertical-align: text-top;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.loading {
+	background-image: url("../images/icon/ajax-loader.gif");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.sprite-icon_active {
+	background-image: url("../images/icon/icon-site-list.png");
+	background-repeat: no-repeat;
+	vertical-align: -2px;
+	display: inline-block;
+	height: 14px;
+	width: 12px;
+	background-position: 0 0;
+	margin-right: 6px;
+}
+.sprite-icon_settings {
+	background-image: url("../images/icon/icon-site-list.png");
+	background-repeat: no-repeat;
+	vertical-align: -2px;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+	background-position: 0 -59px;
+	margin-right: 2px;
+}
+.sprite-icon_stat {
+	background-image: url("../images/icon/icon-site-list.png");
+	background-repeat: no-repeat;
+	vertical-align: -2px;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+	background-position: 0 -80px;
+	margin-right: 2px;
+}
+.sprite-icon_ns {
+	background-image: url("../images/icon/icon-site-list.png");
+	background-repeat: no-repeat;
+	vertical-align: -2px;
+	display: inline-block;
+	height: 17px;
+	width: 17px;
+	background-position: 0 -37px;
+}
+.sprite-icon_cname {
+	background-image: url("../images/icon/icon-site-list.png");
+	background-repeat: no-repeat;
+	vertical-align: -2px;
+	display: inline-block;
+	height: 13px;
+	width: 18px;
+	background-position: 0 -19px;
+}
+.sprite-icon_app_bandwidth,
+.sprite-icon_app_wordpress,
+.sprite-icon_app_ecshop,
+.sprite-icon_app_discuz,
+.sprite-icon_app_phpwind{
+	border: 1px solid #cfcfcf;
+	-webkit-border-radius: 3px;
+	   -moz-border-radius: 3px;
+		    border-radius: 3px;
+	background-repeat: no-repeat;
+	vertical-align: -2px;
+	display: inline-block;
+	height: 66px;
+	width: 66px;
+	background-color: #FFF;	
+}
+.sprite-icon_app_discuz {
+	background-image: url("../images/icon/icon-apps.png");
+	background-position: 0 0;
+}
+.sprite-icon_app_bandwidth {
+	background-image: url("../images/icon/icon-apps.png");
+	background-position: 0 -71px;
+}
+.sprite-icon_app_phpwind {
+	background-image: url("../images/icon/icon-apps.png");
+	background-position: 0 -142px;
+}
+.sprite-icon_app_ecshop {
+	background-image: url("../images/icon/icon-apps.png");
+	background-position: 0 -213px;
+}
+.sprite-icon_app_wordpress {
+	background-image: url("../images/icon/icon-apps.png");
+	background-position: 0 -355px;
+}
+.sprite-icon_app_wap {
+	background-image: url("../images/icon/icon-apps.png");
+	background-repeat: no-repeat;
+	vertical-align: -2px;
+	display: inline-block;
+	height: 66px;
+	width: 66px;
+	background-position: 0 -284px;
+}
+.icon-init-loading {
+	background-image: url("../images/icon/icon-init-dns.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 46px;
+	width: 46px;
+	background-position: 0 0;
+}
+.icon-init-fail {
+	background-image: url("../images/icon/icon-init-dns.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 48px;
+	width: 48px;
+	background-position: -56px 0;
+}
+.icon-init-success {
+	background-image: url("../images/icon/icon-init-dns.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 48px;
+	width: 48px;
+	background-position: -114px 0;
+}
+.icon-init-warning {
+	background-image: url("../images/icon/icon-init-dns.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 48px;
+	width: 48px;
+	background-position: -172px 0;
+}
+.icon-close-modal {
+	background-image: url("../images/icon/icon-init-dns.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 18px;
+	width: 18px;
+	background-position: -230px -15px;
+}
+.icon-close-modal:hover {
+	background-position: -258px -15px;
+}
+.icon-dns-set{
+	background: url("../images/icon/dnsSet.png") 0px -31px no-repeat;
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+}
+.icon-dns-del{
+	background: url("../images/icon/dnsSet.png") 0px 0px no-repeat;
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	margin-left: 2px;
+}
+.icon-contact-qq {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	margin-right: 10px;
+	background: url("../images/zqq.png") no-repeat 0 0;
+}
+.icon-contact-tel {
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	margin-right: 10px;
+	background: url("../images/zphone.png") no-repeat 0 0;
+}
+.icon-list-green {
+	width: 8px;
+	height: 8px;
+	display: inline-block;
+	background: url("../images/icon/icon-list-green.png") no-repeat 0 0;
+}
+.icon-weixin-big {
+	width: 120px;
+	height: 120px;
+	display: block;
+	background: url("../images/weixin.png") no-repeat 0 0;
+}
+.icon-weixin-max {
+	width: 120px;
+	height: 142px;
+	display: block;
+	background: url("../images/weixin.png") no-repeat 0 23px;
+}
+.icon-weixin-small {
+	width: 80px;
+	height: 80px;
+	display: block;
+	background: url("../images/weixin.png") no-repeat -130px 0;
+}
